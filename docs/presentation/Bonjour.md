@@ -15,3 +15,5 @@ Les cours de latin sont très ludiques , on decouvre des choses au fil de diffé
 Nous invitons tous les élèves curieux et passionnés par l'histoire et la culture à rejoindre la section Latin ! Ensemble, découvrons l'héritage fascinant de la Rome antique. 🌟
 
 --- 
+
+![docusaurus.png](..%2F..%2Fstatic%2Fimg%2Fdocusaurus.png)
