@@ -1,7 +1,9 @@
 ---
 slug: long-blog-post
 title: Les élèves latinistes sur le site gallo-romain de Plassac
-authors: Dahrel , college
+authors:
+  - Dahrel
+  - college
 tags: [domus]
 ---
 ![hero-boss.jpg](..%2F..%2Fstatic%2Fimg%2Fhero-boss.jpg)
