@@ -1,17 +1,21 @@
-Dahrel:
-  name: Dahrel Famibelle
-  title: Développeur site full Stack et élève latiniste de 3ème.
-  url: https://github.com/Dada972dev
-  image_url: https://raw.githubusercontent.com/Dada972dev/lelatinrosaboneur/main/static/img/fd.jpg
-  page: true
-  socials:
-    github: Dada972dev
-
-    Collège:
-      name: Collège rosa bonheur équipe de communication
-      title: Equipe de communication du collège rosa bonheur
-      url: https://blogpeda.ac-bordeaux.fr/rosabonheur33520/
-      image_url: https://raw.githubusercontent.com/Dada972dev/lelatinrosaboneur/main/static/img/section79.jpg
-      page: true
-      socials:
-
+  Dahrel: {
+    name: 'Dahrel Famibelle',
+    title: 'Développeur site Full Stack et élève latiniste de 3ème.',
+    url: 'https://github.com/Dada972dev',
+    image_url: 'https://raw.githubusercontent.com/Dada972dev/lelatinrosaboneur/main/static/img/fd.jpg',
+    page: true,
+    socials: {
+      github: 'https://github.com/Dada972dev',
+    },
+  },
+  college: {
+    name: 'Collège Rosa Bonheur - Équipe de communication',
+    title: 'Equipe de communication du collège Rosa Bonheur',
+    url: 'https://blogpeda.ac-bordeaux.fr/rosabonheur33520/',
+    image_url: 'https://raw.githubusercontent.com/Dada972dev/lelatinrosaboneur/main/static/img/section79.jpg',
+    page: true,
+    socials: {
+               // Si l'équipe de communication a des profils sociaux à afficher, ajoute-les ici
+    },
+  },
+  };

@@ -1,8 +1,8 @@
 ---
 slug: long-blog-post
 title: Les élèves latinistes sur le site gallo-romain de Plassac
-authors: Dahrel
-tags: [domus , Collège]
+authors: Dahrel , college
+tags: [domus]
 ---
 ![hero-boss.jpg](..%2F..%2Fstatic%2Fimg%2Fhero-boss.jpg)
 Jeudi 10 octobre, une sortie organisée par le collège Rosa Bonheur avec le soutien du Conseil départemental a permis aux élèves latinistes de découvrir les vestiges de la villa gallo-romaine de Plassac, construite et plusieurs fois remaniée entre le Ier et les IV – Ve siècles après J.C.
