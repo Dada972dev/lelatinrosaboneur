@@ -1,10 +1,10 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Le latin',
-  tagline: 'Bienvenue! Au collège rosa bonheur',
+  tagline: 'Bienvenue! Au collège Rosa Bonheur',
   favicon: 'img/favicon.ico',
 
   url: 'https://ladomusweb.vercel.app/',
@@ -28,7 +28,12 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
+              'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
+        },
+        blog: {
+          showReadingTime: true, // Affiche le temps de lecture des articles
+          editUrl:
+              'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -41,7 +46,7 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     announcementBar: {
       id: "prerelease",
-      content: 'The Wiki is currently in development, some pages may be incomplete or missing.',
+      content: 'Le Wiki est actuellement en développement, certaines pages peuvent être incomplètes ou manquantes.',
       backgroundColor: "#df4b30",
       textColor: "#ffffff",
       isCloseable: true,
@@ -58,6 +63,11 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Les infos',
+        },
+        {
+          to: '/blog',  // Ajout du lien vers le blog dans la barre de navigation
+          label: 'Blog', // Label pour le blog
+          position: 'left',
         },
       ],
     },
