@@ -18,8 +18,8 @@ function HomePageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--outline button--secondary button--lg"
-            to="/docs/🏛️intro/intro">
-            Entrer dans la domus
+            to="/docs/presentation/Bonjour">
+           Bienvenue!
           </Link>
         </div>
       </div>
